@@ -45,8 +45,9 @@ To use the [PRIME cluster](https://mpe.au.dk/en/research/facilities/prime/), fir
 
 #### 2. Connect with ssh
 Update 16.01.25:
-You now need to use the jump host ssh.au.dk first to connect to the cluster:
+You now need to use the jump host ssh.au.dk first to connect to the cluster. Further information [here](https://labbook.au.dk/pages/viewpage.action?spaceKey=COM&title=1.+Introduction):
 > ssh au123456@ssh.au.dk
+
  You can then connect to the cluster through the terminal, e.g.
 > ssh marta@prime.eng.au.dk
 
